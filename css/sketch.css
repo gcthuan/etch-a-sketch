@@ -1,0 +1,29 @@
+
+button {
+	float: left;
+	margin: 10px;
+}
+
+.square {
+	height: 20px;
+	width: 20px;
+	border: 1px solid #000;
+	margin: 1px 1px 0px 0px;
+	background-color: #fff;
+	float: left;
+}
+.leftmost {
+	clear: both;
+}
+
+.black {
+	background-color: #000;
+}
+
+.grey {
+	background-color: #666;
+}
+
+.white {
+	background-color: #fff;
+}
